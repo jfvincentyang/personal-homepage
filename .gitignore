@@ -1,0 +1,14 @@
+# Local deploy artifacts
+deploy-*.zip
+*.zip
+
+# Temporary browser/cache files
+.chrome-compress/
+
+# Original generated images kept locally only; the site uses optimized JPG assets.
+assets/*.png
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
